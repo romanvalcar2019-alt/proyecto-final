@@ -47,6 +47,3 @@ En mi opinión, este proyecto ayudaría mucho a la sociedad y a las personas con
 - **OpenCV (`opencv-python`)**: Para procesar imágenes, cambiar espacios de color y analizar zonas de la pantalla.
 - **NumPy (`numpy`)**: Para trabajar con arreglos de píxeles y realizar cálculos sobre colores y brillo.
 - **Pillow (`PIL`)**: Para abrir imágenes, revisar estadísticas de brillo/contraste y guardar capturas de prueba.
-
-## Los artículos de la guía que me ayudarán durante el desarrollo
-Guía o artículo sobre accesibilidad en videojuegos o simulación de daltonismo y contraste... [guía](pegar-enlace-aqui)
