@@ -39,3 +39,14 @@ Lo ideal es comenzar desarrollando un **prototipo sencillo** del videojuego, ya 
 En mi opinión, este proyecto ayudaría mucho a la sociedad y a las personas con problemas de audición o de vista, y también ayuda un montón a los que desarrollan dichos videojuegos. Es una gran oportunidad para hacer que la industria sea más inclusiva y accesible para todos.
 
 ---
+
+## Este es el tipo de mi proyecto:
+> Visión por ordenador aplicada a la accesibilidad e inclusión visual en videojuegos (análisis de capturas de pantalla o gameplays para detectar problemas de brillo, contraste y percepción de color).
+
+## Las bibliotecas que voy a utilizar:
+- **OpenCV (`opencv-python`)**: Para procesar imágenes, cambiar espacios de color y analizar zonas de la pantalla.
+- **NumPy (`numpy`)**: Para trabajar con arreglos de píxeles y realizar cálculos sobre colores y brillo.
+- **Pillow (`PIL`)**: Para abrir imágenes, revisar estadísticas de brillo/contraste y guardar capturas de prueba.
+
+## Los artículos de la guía que me ayudarán durante el desarrollo
+Guía o artículo sobre accesibilidad en videojuegos o simulación de daltonismo y contraste... [guía](pegar-enlace-aqui)
